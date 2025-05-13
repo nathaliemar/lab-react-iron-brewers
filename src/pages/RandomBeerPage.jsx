@@ -1,6 +1,5 @@
-import { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import beersJSON from "./../assets/beers.json";
+//import beersJSON from "./../assets/beers.json";
 import useFetch from "../hooks/useFetch";
 
 function RandomBeersPage() {
